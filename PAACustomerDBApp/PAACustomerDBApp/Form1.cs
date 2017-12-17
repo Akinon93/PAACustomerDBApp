@@ -41,7 +41,7 @@ namespace PAACustomerDBApp{
         public Form1(){
 
             excel_app = new Excel.Application();
-            basefilepath = @"C:\Users\mike\Desktop";
+            basefilepath = @"\FILEPATH\";
             customerDBfile = basefilepath + @"\Customer Information.xlsx";
 
             //Set up our AddCustomer panel
