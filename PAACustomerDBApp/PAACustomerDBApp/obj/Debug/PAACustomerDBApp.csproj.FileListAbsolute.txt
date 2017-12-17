@@ -1,0 +1,11 @@
+C:\Users\mike\source\repos\PAACustomerDBApp\PAACustomerDBApp\bin\Debug\PAACustomerDBApp.exe.config
+C:\Users\mike\source\repos\PAACustomerDBApp\PAACustomerDBApp\bin\Debug\PAACustomerDBApp.exe
+C:\Users\mike\source\repos\PAACustomerDBApp\PAACustomerDBApp\bin\Debug\PAACustomerDBApp.pdb
+C:\Users\mike\source\repos\PAACustomerDBApp\PAACustomerDBApp\obj\Debug\PAACustomerDBApp.csprojResolveAssemblyReference.cache
+C:\Users\mike\source\repos\PAACustomerDBApp\PAACustomerDBApp\obj\Debug\PAACustomerDBApp.Form1.resources
+C:\Users\mike\source\repos\PAACustomerDBApp\PAACustomerDBApp\obj\Debug\PAACustomerDBApp.Properties.Resources.resources
+C:\Users\mike\source\repos\PAACustomerDBApp\PAACustomerDBApp\obj\Debug\PAACustomerDBApp.csproj.GenerateResource.Cache
+C:\Users\mike\source\repos\PAACustomerDBApp\PAACustomerDBApp\obj\Debug\PAACustomerDBApp.csproj.CoreCompileInputs.cache
+C:\Users\mike\source\repos\PAACustomerDBApp\PAACustomerDBApp\obj\Debug\PAACustomerDBApp.exe
+C:\Users\mike\source\repos\PAACustomerDBApp\PAACustomerDBApp\obj\Debug\PAACustomerDBApp.pdb
+C:\Users\mike\source\repos\PAACustomerDBApp\PAACustomerDBApp\obj\Debug\PAACustomerDBApp.csproj.ResolveComReference.cache
