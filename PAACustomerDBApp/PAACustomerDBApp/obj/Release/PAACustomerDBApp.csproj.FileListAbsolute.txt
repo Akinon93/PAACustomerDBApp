@@ -1,0 +1,15 @@
+C:\Users\mike\source\repos\PAACustomerDBApp\PAACustomerDBApp\bin\Release\PAACustomerDBApp.exe.config
+C:\Users\mike\source\repos\PAACustomerDBApp\PAACustomerDBApp\bin\Release\PAACustomerDBApp.exe.manifest
+C:\Users\mike\source\repos\PAACustomerDBApp\PAACustomerDBApp\bin\Release\PAACustomerDBApp.application
+C:\Users\mike\source\repos\PAACustomerDBApp\PAACustomerDBApp\bin\Release\PAACustomerDBApp.exe
+C:\Users\mike\source\repos\PAACustomerDBApp\PAACustomerDBApp\bin\Release\PAACustomerDBApp.pdb
+C:\Users\mike\source\repos\PAACustomerDBApp\PAACustomerDBApp\obj\Release\PAACustomerDBApp.csprojResolveAssemblyReference.cache
+C:\Users\mike\source\repos\PAACustomerDBApp\PAACustomerDBApp\obj\Release\PAACustomerDBApp.csproj.ResolveComReference.cache
+C:\Users\mike\source\repos\PAACustomerDBApp\PAACustomerDBApp\obj\Release\PAACustomerDBApp.Form1.resources
+C:\Users\mike\source\repos\PAACustomerDBApp\PAACustomerDBApp\obj\Release\PAACustomerDBApp.Properties.Resources.resources
+C:\Users\mike\source\repos\PAACustomerDBApp\PAACustomerDBApp\obj\Release\PAACustomerDBApp.csproj.GenerateResource.Cache
+C:\Users\mike\source\repos\PAACustomerDBApp\PAACustomerDBApp\obj\Release\PAACustomerDBApp.csproj.CoreCompileInputs.cache
+C:\Users\mike\source\repos\PAACustomerDBApp\PAACustomerDBApp\obj\Release\PAACustomerDBApp.exe.manifest
+C:\Users\mike\source\repos\PAACustomerDBApp\PAACustomerDBApp\obj\Release\PAACustomerDBApp.application
+C:\Users\mike\source\repos\PAACustomerDBApp\PAACustomerDBApp\obj\Release\PAACustomerDBApp.exe
+C:\Users\mike\source\repos\PAACustomerDBApp\PAACustomerDBApp\obj\Release\PAACustomerDBApp.pdb
